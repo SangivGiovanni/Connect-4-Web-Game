@@ -1,6 +1,6 @@
 # Connect-4-Web-Game
 
-Play connect 4 with a friend on your favourite browser! Download/fork project and open html to play.
+Play connect 4 with a friend on your favourite browser! Download/fork project and open project.html to play.
 
 1. JavaScript used to create functions to run the game.
 2. jQuery used to grab and manipuliate elements within the JavaScript functions.
